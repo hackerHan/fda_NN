@@ -1,0 +1,12 @@
+name: shiny_model3
+title: shiny_model3
+username:
+account: hackerhan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2479985
+bundleId: 3419159
+url: https://hackerhan.shinyapps.io/shiny_model3/
+when: 1595377155.20039
+asMultiple: FALSE
+asStatic: FALSE

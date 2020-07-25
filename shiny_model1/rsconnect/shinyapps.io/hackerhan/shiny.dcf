@@ -1,0 +1,13 @@
+name: shiny
+title: shiny
+username:
+account: hackerhan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2206706
+bundleId: 3293877
+url: https://hackerhan.shinyapps.io/shiny/
+when: 1592606950.8732
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/.DS_Store
